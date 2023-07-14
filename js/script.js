@@ -6,7 +6,7 @@ $(document).ready(function () {
   });
 
   var typed = new Typed(".typed", {
-    strings: ["Jr. Full-Stack", "Video Editor", "Discord Bot Developer"],
+    strings: ["Technical architect", "Website development in headless architecture", "Drupal and Ci/CD pipelines", "Docker"],
     typeSpeed: 60,
     startDelay: 900,
     showCursor: false,
